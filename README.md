@@ -1,2 +1,2 @@
 # Wordmine
-https://github.io/marifdaiyaan/Wordmine/
+https://github.io/marifdaiyaan/Wordmine
